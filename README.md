@@ -385,6 +385,65 @@ Luego de subir seuencias
 
 1930
 
+¿Cual es la secuencia mas cercana a SRY de humano? (Phylogenetic Tree)
+
+El gen de SRY de chimpance 
+
+¿Cual es el mas lejano?
+
+El de murcielago de fruta y el murcielago normal.
+
+¿Cuál es la especie cuyo gen SRY es más cercana a la del burro?
+
+El gen equus de los equinos.
+
+### Gaps MAFFT
+
+¿Cómo esperas que sea el alineamiento si el costo de abrir un gap aumenta? ¿Y si disminuye?
+
+El porcentaje de identidad disminuye. En cambio si disminuye el costo deberia aumentar el porcentaje de identidad, ya que hay menos penalizaciones.
+
+¿Cómo esperas que sea el alineamiento si el costo de extender un gap aumenta? ¿Y si disminuye?
+
+Depende de la cantidad de extensiones que tengan los gaps de los genes a analizar. 
+
+### Cambio de penalizacion por abrir un gap de 1.53 a 2.0
+
+¿Cuál fue el efecto de aumentar el costo de abrir un gap en la longitud total del alineamiento?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
