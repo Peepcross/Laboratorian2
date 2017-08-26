@@ -435,6 +435,11 @@ Depende de la cantidad de extensiones que tengan los gaps de los genes a analiza
 ### Cambio de penalizacion por abrir un gap de 1.53 a 2.0
 
 ¿Cuál fue el efecto de aumentar el costo de abrir un gap en la longitud total del alineamiento?
+La longitud se mantuvo 
+
+## Parte 3: Diseño de partidores
+
+Coding Sequence (CDS)SRY de Chlorocebus sabaeus, Homo sapiens, Pan troglodytes y Macaca Mulatta.
 
 >sry gene [Homo sapiens]
 ATGCAATCATATGCTTCTGCTATGTTAAGCGTATTCAACAGCGATGATTACAGTCCAGCTGTGCAAGAGA
@@ -480,26 +485,47 @@ AGTTGCAGTTTGCTTCCGGCAGATCCCTCTTCGGTACCCTGCAGAGAAGTGGAACTGGACAACAGGTTGT
 ACAGGGATGACTGTACCAAAGCCACGCACTCAAGAATGCAGCACCAGTTAGGCCACTTACCGCCCATCAA
 CACAGCCAGCTCACCGCAGCAATGGGACCGCTACAGCCACTCGACAAAGCTGTAG
 
+### primers4clades 
 
-## Amplicon 1 codon_usage_table = mitochondrion_Chlorocebus_sabaeus :
+### Partidores obtenidos
+
+##Amplicon 1 codon_usage_table = mitochondrion_Chlorocebus_sabaeus :
+
 CCGCCGTTCAACAAaayathccngc 5'->3' N 17 174 (aligned residues)
+
 cagctgtgcaagagaatattcccgc >001 SRY GENE [HOMO SAPIENS] 
+
 cagctgcgcaacagaatattcctgc >002 SRY GENE [MACACA MULATTA SEX DETERMINING REGION Y] 
+
 cagctgtgcaacagaatattcccgc >003 SRY GENE [PAN TROGLODYTES] 
+
 cagctgcgcaacagaatattcctgc >004 SRY GENE [CHLOROCEBUS SABAEUS] 
+
 .!..!.?!...?.!..!..!..?..
+
 CAGCTGTGCAACAGaatattccygc codeh_corr d22d6f15_intronless_cluster_01_N17
+
 cagctgygcaasagaatattccygc relax_corr d22d6f15_intronless_cluster_01_N17
+
 cagctgygcaasagaatattccygc degen_corr d22d6f15_intronless_cluster_01_N17
 
 GGGTAGGTGGCCTAGTtgrtgytscat 5'->3' C 17 174 (aligned residues)
+
 cggtaagtggcctagctggtgctccat >001 SRY GENE [HOMO SAPIENS] 
+
 cggtaagtggcctaactggtgctgcat >002 SRY GENE [MACACA MULATTA SEX DETERMINING REGION Y] 
+
 cggtaagtggcctagctggtgctccat >003 SRY GENE [PAN TROGLODYTES] 
+
 cggtaagtggcctaactggtgctgcat >004 SRY GENE [CHLOROCEBUS SABAEUS] 
+
+
 !....!........?!..!..!.....
+
 CGGTAAGTGGCCTAGCtggtgctscat codeh_corr d22d6f15_intronless_cluster_01_C174
+
 cggtaagtggcctarctggtgctscat relax_corr d22d6f15_intronless_cluster_01_C174
+
 cggtaagtggcctarctggtgctscat degen_corr d22d6f15_intronless_cluster_01_C174
 
 
