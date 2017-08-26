@@ -434,8 +434,9 @@ Depende de la cantidad de extensiones que tengan los gaps de los genes a analiza
 
 ### Cambio de penalizacion por abrir un gap de 1.53 a 2.0
 
-¿Cuál fue el efecto de aumentar el costo de abrir un gap en la longitud total del alineamiento?
-La longitud se mantuvo 
+¿Cuál fue el efecto de aumentar y disminuir el costo de abrir un gap en la longitud total del alineamiento?
+
+La longitud se mantuvo. 
 
 ## Parte 3: Diseño de partidores
 
