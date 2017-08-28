@@ -410,6 +410,8 @@ Luego de subir seuencias
 
 1930
 
+![Imagen de Jalview](https://github.com/Peepcross/Laboratorian2/blob/master/woah.png)
+
 ¿Cual es la secuencia mas cercana a SRY de humano? (Phylogenetic Tree)
 
 El gen de SRY de chimpance 
@@ -436,7 +438,7 @@ Depende de la cantidad de extensiones que tengan los gaps de los genes a analiza
 
 ¿Cuál fue el efecto de aumentar y disminuir el costo de abrir un gap en la longitud total del alineamiento?
 
-La longitud se mantuvo. 
+La longitud disminuyo al aumentar el costo, acercandose a los 1920 y al reducir el costo de abrir un gap la longitud aumento a unos 1980.
 
 ## Parte 3: Diseño de partidores
 
