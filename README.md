@@ -7,7 +7,7 @@
 
 ### Gen SRY
 
-Funcion:This intronless gene encodes a transcription factor that is a member of the high mobility group (HMG)-box family of DNA-binding proteins. This protein is the testis-determining factor (TDF), which initiates male sex determination.
+Funcion: Este gen codifica un factor de transcripcion que es miembro de la familia HMG-box (high mobility group) de proteinas de union a ADN. Esta proteina es el factor determinante de testiculos, el cual inicia la diferenciacion de sexo en el macho.
 
 ¿Cuantos ortolgos muestra la base de datos ? 
 26
