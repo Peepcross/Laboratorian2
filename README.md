@@ -12,7 +12,7 @@ Funcion: Este gen codifica un factor de transcripcion que es miembro de la famil
 ¿Cuantos ortolgos muestra la base de datos ? 
 26
 
-Secuencias de estos ortologos 
+Secuencias de estos ortologos (FASTA)
 
 >Homo sapiens sex determining region Y (SRY), mRNA
 TGTTGAGGGCGGAGAAATGCAAGTTTCATTACAAAAGTTAACGTAACAAAGAATCTGGTAGAAGTGAGTT
